@@ -1,11 +1,11 @@
 {
   "name": "Rondoc",
   "symbol": "RON",
-  "uri": "https://raw.githubusercontent.com/Rondoint/Rondoint/refs/heads/main/ron.png", 
+  "uri": "https://raw.githubusercontent.com/Rondoint/Solana/main/logo.png", 
   "seller_fee_basis_points": 0,
   "creators": [
     {
-      "address": "J6dzKwx2v44a9uw81u5gqmmhyNEe6tPgbYLxj2bFAGHx ",
+      "address": "6APgpdZtzifgVNpbhmjRd98jbuCNF7fNS6yrKcs9rkG4",
       "verified": true,
       "share": 100
     }
